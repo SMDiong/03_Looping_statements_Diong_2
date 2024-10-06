@@ -28,6 +28,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.lab2_exercise1.executor": "Run",
+    "Python.lab2_exercise2.executor": "Run",
+    "Python.lab2_exercise3.executor": "Run",
+    "Python.lab2_exercise4.executor": "Run",
+    "Python.lab3_exercise3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "settings.editor.selected.configurable": "configurable.group.appearance"
   }
